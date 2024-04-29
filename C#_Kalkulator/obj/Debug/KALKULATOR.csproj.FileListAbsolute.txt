@@ -1,0 +1,10 @@
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\bin\Debug\KALKULATOR.exe.config
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\bin\Debug\KALKULATOR.exe
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\bin\Debug\KALKULATOR.pdb
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.csproj.AssemblyReference.cache
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.Properties.Resources.resources
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.csproj.GenerateResource.cache
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.exe
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.pdb
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\KALKULATOR\obj\Debug\KALKULATOR.KALKULATORUTAMA.resources
